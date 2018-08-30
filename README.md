@@ -13,7 +13,7 @@ AIzaSyARHJJDFtwb5wcnURwwJA3FQRrM16PF27c
 **htpasswd网页锁** 账号密码在线生成：http://www.htaccesstools.com/htpasswd-generator/   
 
 
-**豆豆兵频道：**  https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg
+
 
  
         
